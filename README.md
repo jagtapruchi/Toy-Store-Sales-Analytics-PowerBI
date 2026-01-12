@@ -12,6 +12,7 @@ DAX: Cumulative totals, Time Intelligence, Dynamic Targets, and Ranking.
 Power Query: Data cleaning, Column splitting, and Date Table creation.
 
 📸 Dashboard Previews
+
 Page 1: Executive Overview
 
 Page 2: Product & Inventory
